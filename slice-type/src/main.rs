@@ -20,7 +20,7 @@ fn main() {
     // this works too, without the slice syntax!
     let word = first_word(my_string_literal);
 }
-// example of the long way around. we look for the first space and return 5 for hello
+// this function takes the str literal and returns literal back now
 fn first_word(s: &str) -> &str {
     let bytes = s.as_bytes();
 
