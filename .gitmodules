@@ -1,3 +1,6 @@
 [submodule "minigrep"]
 	path = minigrep
 	url = https://github.com/turnwol7/Rust-Book-IO-CLI-Project
+[submodule "multithreaded-webserver"]
+	path = multithreaded-webserver
+	url = https://github.com/turnwol7/Rust-Multi-Threaded-Web-Server.git
